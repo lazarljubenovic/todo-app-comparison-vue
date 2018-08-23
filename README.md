@@ -5,7 +5,7 @@ Framework: Vue 2.5.17
 ## Build instructions
 
 ```
-yarn build
+$ yarn build
 ```
 
 ## Results

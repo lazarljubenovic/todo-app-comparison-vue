@@ -1,16 +1,17 @@
-# todo-app-comparison-vue
+# Todo App Comparison: Vue
 
-## Project setup
-```
-yarn install
-```
+Framework: Vue 2.5.17
 
-### Compiles and hot-reloads for development
+## Build instructions
+
 ```
-yarn run serve
+yarn build
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
+## Results
+
+```text
+ 93980 *.js
+ 33793 *.js.gz
+ 30177 *.js.br
 ```
